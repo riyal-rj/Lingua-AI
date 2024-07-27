@@ -133,7 +133,7 @@ def get_conversation_response(question, prompt):
     return conversation_response, review
 
 def main():
-    st.markdown('<div class="title">English Tutor</div>', unsafe_allow_html=True)
+    st.markdown('<div class="title">Lingua AI : English Tutor</div>', unsafe_allow_html=True)
 
     if "conversation_history" not in st.session_state:
         st.session_state.conversation_history = []
