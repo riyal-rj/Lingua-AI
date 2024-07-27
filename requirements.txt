@@ -1,0 +1,6 @@
+langchain
+langchain_groq
+streamlit
+deepgram-sdk
+langchain_community
+python-dotenv
