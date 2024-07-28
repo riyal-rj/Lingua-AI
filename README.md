@@ -71,7 +71,7 @@ streamlit run app.py
   - **Intermediate**: Intermediate level exercises.
   - **Beginner**: Basic level exercises.
 
-  ### Interact with the App
+### Interact with the App
 
 - **Enter your input** in the text area provided.
 - **Click the "Submit" button** to receive responses and feedback based on your selected option.
